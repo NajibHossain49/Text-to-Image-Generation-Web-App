@@ -107,5 +107,6 @@ You can view the live version of the Text-to-Image Generator Web App at [Live De
 
 ## 🔗 **Alternative Link**
 
-If the main link is unavailable, you can also access the project at [Alternative Demo](Text-to-Image-Generator.surge.sh).
+If the main link is unavailable, you can also access the project at [Alternative Demo](https://text-to-image-generator.surge.sh).
+
 
