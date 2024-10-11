@@ -64,7 +64,8 @@
 
 2. Navigate to the project directory:
     ```bash
-    cd text-to-image-generator
+    cd Text-to-Image-Generation-Web-App
+
     ```
 
 3. **Open the index.html file in your favorite browser to see the app in action.**
