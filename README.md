@@ -44,8 +44,14 @@
 ---
 
 # 📂 **Project Structure**
-📂 Project Root ├── index.html # Main HTML file ├── styles.css # Custom CSS for styling ├── script.js # JavaScript file with fetch API and DOM manipulation └── README.md # Project documentation
+```
+📂 Project Root
+├── index.html      # Main HTML file
+├── styles.css      # Custom CSS for styling
+├── script.js       # JavaScript file with fetch API and DOM manipulation
+└── README.md       # Project documentation
 
+```
 
 ---
 
