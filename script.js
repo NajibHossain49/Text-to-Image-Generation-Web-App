@@ -23,9 +23,13 @@ document
 
     const inputText = document.getElementById("input-text").value;
     const resultContainer = document.querySelector(".image-container");
+    const inputField = document.getElementById("input-text");
 
-    // Show a loading message while the image is being generated
-    resultContainer.innerHTML = "<p>Generating image...</p>";
+    // Clear the input text field
+    inputField.value = "";
+
+    // Show a loading spinner while the image is being generated
+    resultContainer.innerHTML = '<div class="spinner"></div>';
 
     try {
       // Send the text to the API and get the image
