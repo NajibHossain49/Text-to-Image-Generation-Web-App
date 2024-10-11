@@ -59,7 +59,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/NajibHossain49/text-to-image-generator.git
+    git clone https://github.com/NajibHossain49/Text-to-Image-Generation-Web-App.git
     ```
 
 2. Navigate to the project directory:
@@ -107,6 +107,6 @@ You can view the live version of the Text-to-Image Generator Web App at [Live De
 
 ## 🔗 **Alternative Link**
 
-If the main link is unavailable, you can also access the project at [Alternative Demo](https://text-to-image-generator.surge.sh).
+If the main link is unavailable, you can also access the project at [Alternative Demo](Text-to-Image-Generator.surge.sh).
 
 
